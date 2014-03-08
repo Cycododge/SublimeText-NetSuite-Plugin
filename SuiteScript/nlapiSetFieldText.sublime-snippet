@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiSetFieldText('${1:fldname}','${2:txt}','${3:firefieldchanged}','${4:synchronous}');$0
+]]></content>
+	<tabTrigger>nlapiSetFieldText</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

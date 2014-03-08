@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiGetLineItemMatrixField('${1:type}','${2:fldnam}','${3:linenum}','${4:column}');$0
+]]></content>
+	<tabTrigger>nlapiGetLineItemMatrixField</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

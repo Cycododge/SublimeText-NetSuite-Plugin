@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiGetUser();$0
+]]></content>
+	<tabTrigger>nlapiGetUser</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

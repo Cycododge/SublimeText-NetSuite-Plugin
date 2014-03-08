@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiRefreshPortlet();$0
+]]></content>
+	<tabTrigger>nlapiRefreshPortlet</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

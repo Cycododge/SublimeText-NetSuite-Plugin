@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiGetMatrixValue('${1:type}','${2:fldnam}','${3:column}');$0
+]]></content>
+	<tabTrigger>nlapiGetMatrixValue</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

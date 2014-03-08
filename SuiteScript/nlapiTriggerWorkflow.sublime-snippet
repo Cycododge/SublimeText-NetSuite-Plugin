@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiTriggerWorkflow('${1:recordtype}',${2:id},${3:workflowid},${4:actionid});$0
+]]></content>
+	<tabTrigger>nlapiTriggerWorkflow</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiSetRecoveryPoint();$0
+]]></content>
+	<tabTrigger>nlapiSetRecoveryPoint</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

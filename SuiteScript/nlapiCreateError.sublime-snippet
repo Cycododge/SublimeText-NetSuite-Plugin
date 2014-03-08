@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiCreateError('${1:code}','${2:details}','${3:suppressNotification}');$0
+]]></content>
+	<tabTrigger>nlapiCreateError</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

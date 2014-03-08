@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiRemoveCurrentLineItemSubrecord('${1:sublist}','${2:fldname}');$0
+]]></content>
+	<tabTrigger>nlapiRemoveCurrentLineItemSubrecord</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

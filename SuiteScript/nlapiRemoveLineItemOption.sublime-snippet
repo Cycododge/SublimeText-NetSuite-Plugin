@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiRemoveLineItemOption('${1:type}','${2:fldnam}','${3:value}');$0
+]]></content>
+	<tabTrigger>nlapiRemoveLineItemOption</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

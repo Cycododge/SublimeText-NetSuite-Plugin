@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiSelectValues('${1:node}','${2:path}');$0
+]]></content>
+	<tabTrigger>nlapiSelectValues</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiSendCampaignEmail('${1:campaigneventid}','${2:recipientid}');$0
+]]></content>
+	<tabTrigger>nlapiSendCampaignEmail</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

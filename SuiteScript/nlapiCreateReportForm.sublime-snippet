@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiCreateReportForm('${1:title}');$0
+]]></content>
+	<tabTrigger>nlapiCreateReportForm</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

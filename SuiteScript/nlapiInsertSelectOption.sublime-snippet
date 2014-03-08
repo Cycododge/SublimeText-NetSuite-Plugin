@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiInsertSelectOption('${1:fldnam}','${2:value}','${3:text}','${4:selected}');$0
+]]></content>
+	<tabTrigger>nlapiInsertSelectOption</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

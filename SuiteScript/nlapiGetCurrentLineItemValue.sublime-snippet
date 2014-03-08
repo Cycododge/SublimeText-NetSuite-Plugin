@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiGetCurrentLineItemValue('${1:type}','${2:fldnam}');$0
+]]></content>
+	<tabTrigger>nlapiGetCurrentLineItemValue</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

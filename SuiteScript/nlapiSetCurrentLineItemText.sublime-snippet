@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiSetCurrentLineItemText('${1:type}','${2:fldnam}','${3:text}','${4:firefieldchanged}','${5:synchronous}');$0
+]]></content>
+	<tabTrigger>nlapiSetCurrentLineItemText</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

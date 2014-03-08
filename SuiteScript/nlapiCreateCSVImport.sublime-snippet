@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiCreateCSVImport();$0
+]]></content>
+	<tabTrigger>nlapiCreateCSVImport</tabTrigger>
+<scope>source.js, text.html.ssp</scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiXMLToString('${1:xml}');$0
+]]></content>
+	<tabTrigger>nlapiXMLToString</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

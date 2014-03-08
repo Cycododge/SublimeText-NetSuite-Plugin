@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<%=getAttribute('${1:record}',${2:id},'${3:attribute}','${4:default}')%>$0
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>getRecord</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

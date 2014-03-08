@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiMergeTemplate('${1:id}','${2:baseType}',${3:baseId},'${4:altType}',${5:altId},'${6:fields}');$0
+]]></content>
+	<tabTrigger>nlapiMergeTemplate</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>

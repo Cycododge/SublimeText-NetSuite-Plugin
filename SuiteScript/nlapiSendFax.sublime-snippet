@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+nlapiSendFax('${1:author}','${2:recipient}','${3:subject}','${4:body}','${5:records}','${6:attachments}');$0
+]]></content>
+	<tabTrigger>nlapiSendFax</tabTrigger>
+	<scope>source.js, text.html.ssp</scope>
+</snippet>
